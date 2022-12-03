@@ -1,0 +1,7 @@
+.row_etoile {
+     width: 40px;
+     display: flex;
+}
+.colonne_etoile {
+     width: 50%;
+}
